@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>678890313388-12nfhk53c9g2u8lliv676mehk8j681jf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.678890313388-12nfhk53c9g2u8lliv676mehk8j681jf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCR-qk4pP_nD97YGiS6qqUrKuBwKKgHyTQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>678890313388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.MarketMaster</string>
+	<key>PROJECT_ID</key>
+	<string>marketmaster-f0787</string>
+	<key>STORAGE_BUCKET</key>
+	<string>marketmaster-f0787.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:678890313388:ios:ed82b97e0733e543abf109</string>
+	<key>DATABASE_URL</key>
+	<string>https://marketmaster-f0787-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
